@@ -1,0 +1,15 @@
+{
+  "stuffs": [
+    {
+      "id": 1,
+      "title": "Stuff 1"
+    },
+    {
+      "id": 2,
+      "title": "Stuff 2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
