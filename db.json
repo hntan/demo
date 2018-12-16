@@ -2,14 +2,18 @@
   "stuffs": [
     {
       "id": 1,
-      "title": "Stuff 1"
+      "title": "Vocabulary For IELTS",
+      "description": "You will get 7.5 after finish this book",
+      "category": ["book", "ielts"]
     },
     {
       "id": 2,
-      "title": "Stuff 2"
+      "title": "White shirt 1",
+      "description": "Use whenever i being invited into a wedding",
+      "category": ["clothing", "shirt"]
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "hntan"
   }
 }
