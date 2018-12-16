@@ -1,13 +1,13 @@
 {
   "stuffs": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Vocabulary For IELTS",
       "description": "You will get 7.5 after finish this book",
       "category": ["book", "ielts"]
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "White shirt 1",
       "description": "Use whenever i being invited into a wedding",
       "category": ["clothing", "shirt"]
