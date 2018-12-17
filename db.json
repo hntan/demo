@@ -4,13 +4,88 @@
       "id": "1",
       "title": "Vocabulary For IELTS",
       "description": "You will get 7.5 after finish this book",
-      "category": ["book", "ielts"]
+      "category": ["book", "ielts"],
+      "price": 145000,
+      "year": "2018",
+      "picture": "https://www.sachkhaitam.com/Data/Sites/1/Product/5006/collinsvocaforielts-sachkhaitam.jpg"
     },
     {
       "id": "2",
       "title": "White shirt 1",
-      "description": "Use whenever i being invited into a wedding",
+      "description": "Use whenever i'm being invited into a wedding",
+      "category": ["clothing", "shirt"],
+    },
+    {
+      "id": "3",
+      "title": "Blue shirt 1",
+      "description": "Shirt to attend weddings",
       "category": ["clothing", "shirt"]
+    },
+    {
+      "id": "4",
+      "title": "White shirt 2",
+      "description": "Another shirt that's only used to attend wedding",
+      "category": ["clothing", "shirt"]
+    },
+    {
+      "id": "5",
+      "title": "Black jean 1",
+      "description": "My favoried jean ever",
+      "category": ["clothing", "jean"]
+    },
+    {
+      "id": "6",
+      "title": "White-blue jean 1",
+      "description": "A jean that i don't really like, but it's ok when i have nothing to wear for work",
+      "category": ["clothing", "jean"]
+    },
+    {
+      "id": "7",
+      "title": "Black/blue jean",
+      "description": "It's so tight",
+      "category": ["clothing", "jean"]
+    },
+    {
+      "id": "8",
+      "title": "Hat",
+      "description": "Used for trekking only and never be used again",
+      "category": ["clothing", "hat"]
+    },
+    {
+      "id": "9",
+      "title": "Belt 1",
+      "description": "Wear it evertime",
+      "category": ["clothing", "belt"],
+      "price": 200000
+    },
+    {
+      "id": "10",
+      "title": "Belt 2",
+      "description": "Bought it becaue it's quite cheap, 100 Baht",
+      "category": ["clothing", "belt"],
+      "price": 100,
+      "currency": "BAHT"
+    },
+    {
+      "id": "11",
+      "title": "Bibit sport shoe",
+      "description": "It's quite nice and cheap",
+      "category": ["clothing", "shoe"],
+      "price": 615000
+    },
+    {
+      "id": "12",
+      "title": "Quachoa",
+      "description": "It looks quite cool",
+      "category": ["clothing", "shoe"],
+      "price": 800000
+    },
+    {
+      "id": "13",
+      "title": "Bitit Sandle",
+      "description": "It's quite old now",
+      "category": ["clothing", "shoe"],
+      "price": 450000
     }
   ],
   "profile": {
