@@ -89,6 +89,16 @@
     }
   ],
   "profile": {
-    "name": "hntan"
+    "name": "hntan",
+    "jobs": [
+      {
+        "title": "job 1",
+        "description": "description 1"
+      },
+      {
+        "title": "job 2",
+        "description": "description 2"
+      }
+    ]
   }
 }
