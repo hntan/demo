@@ -92,7 +92,7 @@
     {
       "id": "1",
       "account": "ATM",
-      "amount": 145000,
+      "amount": 145000.00,
       "currency": "VND",
       "note": "enough for a beer",
       "category": "Beers",
@@ -102,7 +102,7 @@
     {
      "id": "2",
       "account": "ATM",
-      "amount": 30000,
+      "amount": 30000.00,
       "currency": "VND",
       "note": "lunch",
       "category": "lunch",
@@ -112,7 +112,7 @@
     {
      "id": "3",
       "account": "SAVING",
-      "amount": 2300000,
+      "amount": 2300000.00,
       "currency": "VND",
       "note": "earn from part time job",
       "category": "Beers",
