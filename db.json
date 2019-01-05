@@ -88,6 +88,38 @@
       "price": 450000
     }
   ],
+  "statements": [
+    {
+      "id": "1",
+      "account": "ATM",
+      "amount": 145000,
+      "currency": "VND",
+      "note": "enough for a beer",
+      "category": "Beers",
+      "type": "Expense",
+      "tags": ["beers", "kegmil"]
+    },
+    {
+     "id": "2",
+      "account": "ATM",
+      "amount": 30000,
+      "currency": "VND",
+      "note": "lunch",
+      "category": "lunch",
+      "type": "Expense",
+      "tags": ["beers", "kegmil"]
+    },
+    {
+     "id": "3",
+      "account": "SAVING",
+      "amount": 2300000,
+      "currency": "VND",
+      "note": "earn from part time job",
+      "category": "Beers",
+      "type": "Income",
+      "tags": ["parttime job"]
+    }
+  ],
   "profile": {
     "name": "hntan",
     "jobs": [
